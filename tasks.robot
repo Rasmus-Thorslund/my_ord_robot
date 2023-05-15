@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation       Template robot main suite.
-Library    RPA.Browser.Selenium    auto_close=${FALSE}
+Library    RPA.Browser.Selenium    auto_close=${TRUE}
 Library    RPA.Desktop
 Library    RPA.Tables
 Library    RPA.Excel.Application
