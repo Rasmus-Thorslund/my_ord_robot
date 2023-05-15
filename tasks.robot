@@ -16,9 +16,9 @@ Library    RPA.Archive
 *** Tasks ***
 
 Place Robot order
-  #  Open Website
-  #  Download CSV
-  #  Fill and submit the form using data from the CSV file
+    Open Website
+    Download CSV
+    Fill and submit the form using data from the CSV file
     Create archive and populate
     
 
